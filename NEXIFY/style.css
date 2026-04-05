@@ -1,0 +1,18 @@
+body{
+    background: blue;
+    text-align: center;
+    background-attachment: fixed;
+
+}
+.header{
+    background: white;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+}
+.Home-link{
+    background: white;
+    color: black;
+    padding: 20px;
+    font-size: 20px;
+}
